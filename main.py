@@ -29,7 +29,7 @@ import json
 import base64
 
 # === Configuration ===
-GRADIO_URL = "https://f4b1bb5c13d8313f42.gradio.live/"  # your Gradio share link
+GRADIO_URL = "https://fde6743ee03d00eada.gradio.live/"  # your Gradio share link
 GRADIO_API_PREDICT = urllib.parse.urljoin(GRADIO_URL, "api/predict/")
 DEFAULT_HEIGHT = 800
 
