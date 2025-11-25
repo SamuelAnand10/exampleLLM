@@ -1,0 +1,11 @@
+transformers
+accelerate
+peft
+bitsandbytes
+gradio
+streamlit
+requests
+sentencepiece
+einops
+numpy
+torch
